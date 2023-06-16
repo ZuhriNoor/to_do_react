@@ -10,4 +10,13 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
+  }
+
+.table1{
+    background-color: green;
+    color: green;
+  }
+
+  .table2{
+    background-color: red;
+  }
